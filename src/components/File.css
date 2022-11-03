@@ -1,0 +1,12 @@
+.box {
+    display: flex;
+    flex-direction: column;
+    background-color: #00000025;
+    padding: 16px;
+    border-radius: 4px;
+}
+
+.box .item {
+    display: flexbox;
+    align-content: space-evenly;
+}

@@ -1,0 +1,18 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    background-color: #00000025;
+    padding: 16px;
+    border-radius: 4px;
+} 
+
+.container .row {
+    display:  flex;
+    justify-content: space-between;
+}
+
+/* .container .column {
+    overflow: hidden; 
+    padding-right: .5em;
+}
+*/
